@@ -13,11 +13,3 @@ This is a utility VSCode extension for Roblox development.
 ## TODO
 
 - Add script command.
-
-## Release Notes
-
-### 0.1.0
-
-Initial release
-
----
